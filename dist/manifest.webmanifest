@@ -1,0 +1,1 @@
+{"name":"My Awesome App","short_name":"AwesomeApp","description":"This is a great Progressive Web App!","start_url":"/index.html","display":"standalone","background_color":"#ffffff","theme_color":"#4CAF50","icons":[{"src":"/icon-192.51cd39ff.png","sizes":"192x192","type":"image/png"},{"src":"/icon-512.db21d1fc.png","sizes":"512x512","type":"image/png"}]}
